@@ -156,6 +156,7 @@ const navHeight = nav.getBoundingClientRect().height;
 
 console.log(navHeight);
 
+const header = document.querySelector('.header');
 
 const headerObserver = new IntersectionObserver(stickyNav, {
 
