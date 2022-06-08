@@ -1,0 +1,2 @@
+# Bankist-Application-Website-Page
+A page for a mobile banking application called 'Bankist'. This site was built in a Udemy course over the span of several lessons that taught and implemented tons of useful concepts such as event delegation, capturing and bubbling,  script loading (regular vs async vs defer), DOM traversing and manipulation, the Intersection Observer API, Scroll events, and many more. Upon completing the 13th section ( 20+ lessons ) and finalizing the project, I have finally uploaded it here.     **This is a mock company**
